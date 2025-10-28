@@ -40,4 +40,4 @@ Para manter a comunidade saudável e colaborativa, todos os usuários e contribu
 
 > Colaboração construtiva — sugestões, críticas e contribuições são sempre bem-vindas, desde que feitas com respeito.
 
-Privacidade — é proibido compartilhar informações pessoais ou evidências de outros usuários sem consentimento.
+> Privacidade — é proibido compartilhar informações pessoais ou evidências de outros usuários sem consentimento.
