@@ -4,9 +4,9 @@ Bem-vindos ao "Eu-Duvido" — um espaço onde desafios reais se transformam em a
 
 ## Introdução
 
-O **Eu-Duvido** é uma plataforma web desenvolvida com o propósito de integrar o conceito de **apostas sociais** a **desafios reais**, promovendo o engajamento e a motivação pessoal por meio de recompensas concretas.
+O **Eu-Duvido** é uma plataforma web desenvolvida com o propósito de integrar o conceito de apostas sociais a desafios reais, promovendo o engajamento e a motivação pessoal por meio de recompensas concretas.
 
-A aplicação permite que os usuários **criem, aceitem e participem de desafios cotidianos**, tais como frequentar a academia, acordar cedo, concluir a leitura de um livro, abandonar hábitos nocivos, entre outros. Cada desafio envolve uma **aposta financeira**, cujo valor é destinado a reforçar o comprometimento dos participantes.
+A aplicação permite que os usuários criem, aceitem e participem de desafios cotidianos, tais como frequentar a academia, acordar cedo, concluir a leitura de um livro, abandonar hábitos nocivos, entre outros. Cada desafio envolve uma aposta financeira, cujo valor é destinado a reforçar o comprometimento dos participantes.
 
 Durante o período estipulado para o desafio, os usuários devem **comprovar o cumprimento das metas** por meio de **fotos, vídeos ou outras formas de evidência verificável**. O sistema atua como **intermediário de confiança**, mantendo o valor apostado em **custódia segura** até a conclusão do desafio. Ao término, uma **taxa variável** é aplicada, de acordo com a **duração e a complexidade** da atividade proposta.
 
@@ -32,12 +32,12 @@ Sim! O sistema incentiva desafios entre amigos ou grupos, tornando a experiênci
 
 Para manter a comunidade saudável e colaborativa, todos os usuários e contribuidores devem seguir estas diretrizes:
 
-Respeito acima de tudo — nenhum tipo de ofensa, discriminação ou assédio será tolerado.
+> Respeito acima de tudo — nenhum tipo de ofensa, discriminação ou assédio será tolerado.
 
-Desafios éticos e seguros — não serão permitidos desafios que coloquem em risco a integridade física, emocional ou moral dos participantes.
+> Desafios éticos e seguros — não serão permitidos desafios que coloquem em risco a integridade física, emocional ou moral dos participantes.
 
-Transparência e honestidade — provas falsas, manipulação de resultados ou trapaças resultam em banimento.
+> Transparência e honestidade — provas falsas, manipulação de resultados ou trapaças resultam em banimento.
 
-Colaboração construtiva — sugestões, críticas e contribuições são sempre bem-vindas, desde que feitas com respeito.
+> Colaboração construtiva — sugestões, críticas e contribuições são sempre bem-vindas, desde que feitas com respeito.
 
 Privacidade — é proibido compartilhar informações pessoais ou evidências de outros usuários sem consentimento.
